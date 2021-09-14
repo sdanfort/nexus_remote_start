@@ -1,5 +1,5 @@
 # nexus_remote_start
-Start Vicon Nexus remotely through Matlab via UDP.
+Start Vicon Nexus remotely from Matlab via UDP.
 
 This code was compiled from two main sources.
 
